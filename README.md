@@ -4,8 +4,7 @@ setup recyclerview and adapter for fast product demo
 
 
 ## Usage
-   Step 1. Add the [JitPack dependence][jitpackLink]
-   
+   Step 1. Add the [JitPack dependence](https://jitpack.io/#stanhe/SimpleRecyclerViewHelper/) 
    ```
    //Add it in your root build.gradle at the end of repositories
    allprojects {
@@ -21,5 +20,5 @@ setup recyclerview and adapter for fast product demo
 		compile 'com.github.stanhe:SimpleRecyclerViewHelper:${latestVersion}'  
 	}
    ```
-   Step 2. use [RecyclerViewHelper](https://github.com/stanhe/SimpleRecyclerViewHelper/blob/724730a6a70985ac4dcb348dac42aee977c3c69b/app/src/main/java/com/stan/recyclehelper/MainActivity.java#L39)
+   Step 2. use [RecyclerViewHelper](https://github.com/stanhe/SimpleRecyclerViewHelper/blob/dfc19f3bcacc2ecc0a5c964179d35e6999f36d8d/app/src/main/java/com/stan/recyclehelper/MainActivity.java#L35)
    
